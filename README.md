@@ -31,4 +31,16 @@
 | [0125-valid-palindrome](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0709-to-lower-case) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
