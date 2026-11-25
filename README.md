@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0217-contains-duplicate) |
+| [1470-shuffle-the-array](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
