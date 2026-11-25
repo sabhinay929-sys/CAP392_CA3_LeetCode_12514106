@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0303-range-sum-query-immutable) |
 | [1470-shuffle-the-array](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -40,6 +41,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
