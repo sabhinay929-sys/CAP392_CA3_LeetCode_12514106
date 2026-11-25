@@ -43,6 +43,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
