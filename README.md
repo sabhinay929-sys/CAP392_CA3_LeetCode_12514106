@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0303-range-sum-query-immutable) |
 | [1470-shuffle-the-array](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/sabhinay929-sys/CAP392_CA3_LeetCode_12514106/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
